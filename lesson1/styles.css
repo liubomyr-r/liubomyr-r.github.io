@@ -1,3 +1,11 @@
+body {
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 700px;
+}
+
 .list {
     max-width: 300px;
     list-style-type: none;
