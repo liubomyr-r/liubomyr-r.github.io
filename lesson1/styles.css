@@ -13,3 +13,13 @@ body {
 .list li {
     border: 1px solid lightgrey;
 }
+
+
+.img-bg {
+    width: 500px;
+    height: 500px;
+    border: 1px solid grey;
+    padding: 10px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCmM6AiADQAxfyNrenn9S_XJFi6-LcL9ie_xvGSHgsLTjXN7kd") no-repeat center center;
+    padding-top: 300px;
+}
